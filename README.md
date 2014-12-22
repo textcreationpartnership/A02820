@@ -36,10 +36,12 @@ This keyboarded and encoded edition of the
 
 #####Body#####
 
-1. The prologue
-O God alone in heuen werynge crowneIn whose inspecte is euery regall seBoth to enhaūce & for to cas
-1. ¶Excusacio auctoris
+1. ¶A Ioyfull medytacyon to all Englond: of the coronacyon of our moost naturall souerayne lorde kynge Henry the eyght
 
+    _ The prologue
+O God alone in heuen werynge crowneIn whose inspecte is euery regall seBoth to enhaūce & for to cas
+    _ ¶Excusacio auctoris
+¶Enprynted at London in ye fletestrete at ye sygne of the sonne by wynkyn de worde
 **Types of content**
 
   * There are 216 **verse** lines!
